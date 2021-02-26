@@ -12,6 +12,8 @@ A warning message is also given at half time period (in our case, at 2500).
 
 
 A Sample Input:
+
+
 ![input](https://user-images.githubusercontent.com/69247094/109345194-c8d82200-7895-11eb-9074-fc6cb0cbcd3c.PNG)
 
 
