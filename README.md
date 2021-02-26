@@ -12,43 +12,8 @@ A warning message is also given at half time period (in our case, at 2500).
 
 
 A Sample Input:
-
-:::::::Race a Drunk Man from Start to Finish::::::::
-Enter any character of your choice: s
+![input](https://user-images.githubusercontent.com/69247094/109345194-c8d82200-7895-11eb-9074-fc6cb0cbcd3c.PNG)
 
 
-Sample output: 
-|Danger Zone|                s                                                                                    |Winning line|
-|Danger Zone|              s                                                                                      |Winning line| 
-|Danger Zone|              s                                                                                      |Winning line|
-|Danger Zone|            s                                                                                        |Winning line|
-|Danger Zone|            s                                                                                        |Winning line|
-|Danger Zone|          s                                                                                          |Winning line|
-|Danger Zone|         s                                                                                           |Winning line|
-|Danger Zone|         s                                                                                           |Winning line|
-|Danger Zone|         s                                                                                           |Winning line|
-|Danger Zone|          s                                                                                          |Winning line|
-|Danger Zone|        s                                                                                            |Winning line|
-|Danger Zone|      s                                                                                              |Winning line|
-|Danger Zone|     s                                                                                               |Winning line|
-|Danger Zone|      s                                                                                              |Winning line|
-|Danger Zone|       s                                                                                             |Winning line|
-|Danger Zone|     s                                                                                               |Winning line|
-|Danger Zone|    s                                                                                                |Winning line|
-|Danger Zone|      s                                                                                              |Winning line|
-|Danger Zone|       s                                                                                             |Winning line|
-|Danger Zone|       s                                                                                             |Winning line|
-|Danger Zone|     s                                                                                               |Winning line|
-|Danger Zone|   s                                                                                                 |Winning line|
-|Danger Zone|   s                                                                                                 |Winning line|
-|Danger Zone| s                                                                                                   |Winning line|
-|Danger Zone| s                                                                                                   |Winning line|
-
-
-
-   :::GAME RESULT:::
-
-You Lost!!!
-Your Score: 00
-Process returned 0 (0x0)   execution time : 17.145 s
-Press any key to continue.
+A Sample Output:
+![output](https://user-images.githubusercontent.com/69247094/109345305-ee652b80-7895-11eb-93e7-3cb6c4b644a8.PNG)
